@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{C01876AB-1D4F-402F-B111-FF80D05C04B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.MVC__CORE__test PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC_CORE_test/Data/Context.cs">
+    <Files>
+      <File FileName="MVC_CORE_test/ClientApp/src/index.tsx" Line="21" Column="35" />
+      <File FileName="MVC_CORE_test/Controllers/WeatherForecastController.cs" Line="37" Column="10" />
+      <File FileName="MVC_CORE_test/appsettings.json" Line="15" Column="1" />
+      <File FileName="MVC_CORE_test/Startup.cs" Line="26" Column="1" />
+      <File FileName="MVC_CORE_test/ClientApp/src/App.tsx" Line="3" Column="8" />
+      <File FileName="MVC_CORE_test/ClientApp/src/store/index.ts" Line="1" Column="1" />
+      <File FileName="MVC_CORE_test/ClientApp/src/store/WeatherForecasts.ts" Line="1" Column="1" />
+      <File FileName="MVC_CORE_test/ClientApp/src/store/configureStore.ts" Line="1" Column="1" />
+      <File FileName="MVC_CORE_test/ClientApp/src/store/Counter.ts" Line="1" Column="1" />
+      <File FileName="MVC_CORE_test/ClientApp/src/components/FetchData.tsx" Line="26" Column="20" />
+      <File FileName="MVC_CORE_test/ClientApp/src/components/Layout.tsx" Line="9" Column="28" />
+      <File FileName="MVC_CORE_test/ClientApp/src/components/Home.tsx" Line="5" Column="8" />
+      <File FileName="MVC_CORE_test/ClientApp/src/custom.css" Line="1" Column="1" />
+      <File FileName="MVC_CORE_test/ClientApp/src/react-app-env.d.ts" Line="1" Column="1" />
+      <File FileName="MVC_CORE_test/ClientApp/src/registerServiceWorker.ts" Line="1" Column="1" />
+      <File FileName="MVC_CORE_test/ClientApp/src/components/NavMenu.css" Line="1" Column="1" />
+      <File FileName="MVC_CORE_test/ClientApp/src/components/NavMenu.tsx" Line="26" Column="42" />
+      <File FileName="MVC_CORE_test/Program.cs" Line="1" Column="1" />
+      <File FileName="MVC_CORE_test/Data/Context.cs" Line="2" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC_CORE_test" expanded="True">
+            <Node name="MVC_CORE_test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
