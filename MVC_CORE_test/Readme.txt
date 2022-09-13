@@ -13,4 +13,5 @@
 
 Описание задачи лежит в проекте в  файле "MVC CORE Тестовое задание система управления задачами.doc"
 
-![Alt text](Screenshot.png?raw=true "Задачник")
+
+![Alt text](/MVC_CORE_test/Screenshot.png?raw=true "Задачник")
